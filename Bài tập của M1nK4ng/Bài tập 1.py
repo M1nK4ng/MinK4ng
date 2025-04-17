@@ -1,3 +1,4 @@
+#Bai tap so 1
 numbers = [5, 10, 15, 20, 25]   #Tạo một list chứa các số nguyên: 5, 10, 15, 20, 25
 print("Phan tu dau tien:", numbers[0])  #In phần tử đầu tiên 
 print("Phan tu cuoi cung:", numbers[-1])    #In phần tử cuối cùng
